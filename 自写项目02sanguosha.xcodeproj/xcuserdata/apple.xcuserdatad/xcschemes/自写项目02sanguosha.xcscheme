@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scheme
+   LastUpgradeVersion = "0640"
+   version = "1.3">
+   <BuildAction
+      parallelizeBuildables = "YES"
+      buildImplicitDependencies = "YES">
+      <BuildActionEntries>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "189461101B9AFBCA00A74F4D"
+               BuildableName = "&#x81ea;&#x5199;&#x9879;&#x76ee;02sanguosha.app"
+               BlueprintName = "&#x81ea;&#x5199;&#x9879;&#x76ee;02sanguosha"
+               ReferencedContainer = "container:&#x81ea;&#x5199;&#x9879;&#x76ee;02sanguosha.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "NO"
+            buildForArchiving = "NO"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "189461291B9AFBCA00A74F4D"
+               BuildableName = "&#x81ea;&#x5199;&#x9879;&#x76ee;02sanguoshaTests.xctest"
+               BlueprintName = "&#x81ea;&#x5199;&#x9879;&#x76ee;02sanguoshaTests"
+               ReferencedContainer = "container:&#x81ea;&#x5199;&#x9879;&#x76ee;02sanguosha.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+      </BuildActionEntries>
+   </BuildAction>
+   <TestAction
+      selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
+      selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
+      shouldUseLaunchSchemeArgsEnv = "YES"
+      buildConfiguration = "Debug">
+      <Testables>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "189461291B9AFBCA00A74F4D"
+               BuildableName = "&#x81ea;&#x5199;&#x9879;&#x76ee;02sanguoshaTests.xctest"
+               BlueprintName = "&#x81ea;&#x5199;&#x9879;&#x76ee;02sanguoshaTests"
+               ReferencedContainer = "container:&#x81ea;&#x5199;&#x9879;&#x76ee;02sanguosha.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+      </Testables>
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "189461101B9AFBCA00A74F4D"
+            BuildableName = "&#x81ea;&#x5199;&#x9879;&#x76ee;02sanguosha.app"
+            BlueprintName = "&#x81ea;&#x5199;&#x9879;&#x76ee;02sanguosha"
+            ReferencedContainer = "container:&#x81ea;&#x5199;&#x9879;&#x76ee;02sanguosha.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
+   </TestAction>
+   <LaunchAction
+      selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
+      selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
+      launchStyle = "0"
+      useCustomWorkingDirectory = "NO"
+      buildConfiguration = "Debug"
+      ignoresPersistentStateOnLaunch = "NO"
+      debugDocumentVersioning = "YES"
+      allowLocationSimulation = "YES">
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "189461101B9AFBCA00A74F4D"
+            BuildableName = "&#x81ea;&#x5199;&#x9879;&#x76ee;02sanguosha.app"
+            BlueprintName = "&#x81ea;&#x5199;&#x9879;&#x76ee;02sanguosha"
+            ReferencedContainer = "container:&#x81ea;&#x5199;&#x9879;&#x76ee;02sanguosha.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
+      <AdditionalOptions>
+      </AdditionalOptions>
+   </LaunchAction>
+   <ProfileAction
+      shouldUseLaunchSchemeArgsEnv = "YES"
+      savedToolIdentifier = ""
+      useCustomWorkingDirectory = "NO"
+      buildConfiguration = "Release"
+      debugDocumentVersioning = "YES">
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "189461101B9AFBCA00A74F4D"
+            BuildableName = "&#x81ea;&#x5199;&#x9879;&#x76ee;02sanguosha.app"
+            BlueprintName = "&#x81ea;&#x5199;&#x9879;&#x76ee;02sanguosha"
+            ReferencedContainer = "container:&#x81ea;&#x5199;&#x9879;&#x76ee;02sanguosha.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
+   </ProfileAction>
+   <AnalyzeAction
+      buildConfiguration = "Debug">
+   </AnalyzeAction>
+   <ArchiveAction
+      buildConfiguration = "Release"
+      revealArchiveInOrganizer = "YES">
+   </ArchiveAction>
+</Scheme>

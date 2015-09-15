@@ -1,0 +1,42 @@
+//
+//  sanguosha.pch
+//  自写项目02sanguosha
+//
+//  Created by Apple on 15/9/5.
+//  Copyright (c) 2015年 Apple. All rights reserved.
+//
+
+#ifndef ____02sanguosha_sanguosha_pch
+#define ____02sanguosha_sanguosha_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+#ifdef __OBJC__
+
+#import "UIView+Extension.h"
+
+#define SCREENW [UIScreen mainScreen].bounds.size.width
+
+#define SCREENH [UIScreen mainScreen].bounds.size.height
+// “杀”点击通知
+#define PlayerReadyToAttack @"PlayerReadyToAttack"
+// “杀”对象确认通知
+#define PlayerAttackTargetSelected @"PlayerAttackTargetSelected"
+
+// 角色选中通知
+#define PlayerSelected @"PlayerSelected"
+
+// PlayerHandCardView 内部确定按钮点击通知
+#define HandCardViewQuedingBtnClick @"HandCardViewQuedingBtnClick"
+// PlayerHandCardView 内部取消按钮点击通知
+#define HandCardViewCancelBtnClick @"HandCardViewCancelBtnClick"
+
+// 回合外要求使用卡片的通知
+#define PlayerRequiedToUseCard @"PlayerRequiedToUseCard"
+
+// 角色濒死通知
+#define PlayerIsDying @"PlayerIsDying"
+
+#endif
+
+#endif
